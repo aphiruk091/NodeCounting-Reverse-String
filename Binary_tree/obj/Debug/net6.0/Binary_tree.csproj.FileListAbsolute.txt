@@ -1,0 +1,15 @@
+D:\Project\Test_Tect\Binary_tree\bin\Debug\net6.0\Binary_tree.exe
+D:\Project\Test_Tect\Binary_tree\bin\Debug\net6.0\Binary_tree.deps.json
+D:\Project\Test_Tect\Binary_tree\bin\Debug\net6.0\Binary_tree.runtimeconfig.json
+D:\Project\Test_Tect\Binary_tree\bin\Debug\net6.0\Binary_tree.dll
+D:\Project\Test_Tect\Binary_tree\bin\Debug\net6.0\Binary_tree.pdb
+D:\Project\Test_Tect\Binary_tree\obj\Debug\net6.0\Binary_tree.csproj.AssemblyReference.cache
+D:\Project\Test_Tect\Binary_tree\obj\Debug\net6.0\Binary_tree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Test_Tect\Binary_tree\obj\Debug\net6.0\Binary_tree.AssemblyInfoInputs.cache
+D:\Project\Test_Tect\Binary_tree\obj\Debug\net6.0\Binary_tree.AssemblyInfo.cs
+D:\Project\Test_Tect\Binary_tree\obj\Debug\net6.0\Binary_tree.csproj.CoreCompileInputs.cache
+D:\Project\Test_Tect\Binary_tree\obj\Debug\net6.0\Binary_tree.dll
+D:\Project\Test_Tect\Binary_tree\obj\Debug\net6.0\refint\Binary_tree.dll
+D:\Project\Test_Tect\Binary_tree\obj\Debug\net6.0\Binary_tree.pdb
+D:\Project\Test_Tect\Binary_tree\obj\Debug\net6.0\Binary_tree.genruntimeconfig.cache
+D:\Project\Test_Tect\Binary_tree\obj\Debug\net6.0\ref\Binary_tree.dll
